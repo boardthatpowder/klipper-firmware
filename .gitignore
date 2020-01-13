@@ -1,9 +1,8 @@
-klipper-env
 klipper
 mjpg-streamer
 OctoPrint
 oprint
-print-*.cfg
+printer-*.cfg
 scripts
 .bash_history
 .bash_logout
@@ -15,3 +14,5 @@ scripts
 .octoprint
 .profile
 .wget-hsts
+.gitconfig
+klippy-env
