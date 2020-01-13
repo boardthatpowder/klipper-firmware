@@ -7,4 +7,11 @@ print-*.cfg
 scripts
 .bash_history
 .bash_logout
-. .. .bash_history .bash_logout .bashrc .cache .config .git .gitignore .gnupg .local .octoprint .profile .wget-hsts
+.bashrc
+.cache
+.config
+.gnupg
+.local
+.octoprint
+.profile
+.wget-hsts
