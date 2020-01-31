@@ -16,3 +16,8 @@ scripts
 .wget-hsts
 .gitconfig
 klippy-env
+.pki
+OctoScreen/
+get-docker.sh
+rpi-fbcp
+xf86-video-fbturbo
