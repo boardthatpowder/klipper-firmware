@@ -1,5 +1,13 @@
 # Klipper Firmware
 
+> ### WARNING!
+> This repo is for my own personal use so that I have a backup of my Klipper config.  Copying this config as-is
+> to use as your own could worst case cause damage to your printer.  If you are using this as a base to define
+> your own configuration, make sure that you also read the [official Klipper examples](https://github.com/KevinOConnor/klipper/blob/master/config/example-extras.cfg) to understand what the 
+> settings mean, and more importantly what they need to be set for your particular printer.
+>
+> Use at your own risk!
+
 Klipper config for CR-10S printer with the following modifications that impact firmware configuration:
 - SKR 1.3 board
 - TMC2209 drivers
