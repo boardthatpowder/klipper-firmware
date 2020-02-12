@@ -7,7 +7,9 @@ Klipper config for CR-10S printer with the following modifications that impact f
 - Mosquito Magnum hotend (including Mosquito high temperature sensor and heater cartridge)
 - 3DFused x, y and z linear rail kits
 - 3DFused z-braces
-- EZABL
+- EZABL Pro
+- 24V PSU
+- Moons MS17HA6P4200-06 0.9 deg steppers on X/Y, and Mons MS17HD6P4200-29 1.8 deg steppers on Z/Z1
 
 Includes the following macros
 - START_PRINT : to be called at start of each print.  Homes, loads the bed mesh profile, then calls PRIME_LINE
